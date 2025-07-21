@@ -1,6 +1,6 @@
 # Bank-Churn-Customer-Analysis
 
-![Alt Text](https://github.com/your-username/your-repo/blob/main/IMG-20250721-WA0001.jpg?raw=true)
+![Alt Text](IMG-20250721-WA0001.jpg)
 ✨ Project Overview
 
 This project presents an interactive Power BI dashboard analyzing customer churn data for a fictional bank. It helps identify patterns and insights on why customers leave and highlights key metrics for business decisions.
